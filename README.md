@@ -1,16 +1,12 @@
-# flappy
+# Flappy
 
-A new Flutter project.
+Flappy Birds (but in Flutter)
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+. Only a single pair of Pipes spawn
+. You can manually scroll the base when game is paused (lol)
 
-A few resources to get you started if this is your first Flutter project:
+## Compatibility
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+. For compatibility with AudioPlayers library, the project uses version 4.x of Kotlin, so first build may take some time.
